@@ -1,0 +1,10 @@
+PWM-Ausgänge (Frequenz + DC setzen)
+Encoder-Eingänge (Schritte seit letztem Abruf oder Absolut)
+Digitale Ausgänge (Level setzen)
+Digitale Eingänge (Level lesen, Pull-Up setzen)
+Stepper Ausgänge (Schritte innerhalb nächster ms vorgeben)
+Jog-Wheel Eingabe (Schritte seit letztem Abruf oder Absolut)
+
+Abruf / Setzen mindestens jede 1ms möglich (evtl variable Periode)
+Erweiterung via UART / SPI
+Eigenständiger Notaus Eingang
